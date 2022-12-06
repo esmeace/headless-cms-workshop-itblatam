@@ -14,11 +14,11 @@ Hardware and software:
 
 Instrucciones paso a paso para instalar y configurar Docker, CommandBox, Node, NPM y NVM, las plantillas de la aplicación se proporciona en el directorio de `Prerrequisitos`.
 
-- [Pre-Req 01 - Setup](prerequisitos/Prereq-01-Setup.md)
-- [Pre-Req 02 - Instalar Doocker y CommandBox](prerequisitos/Prereq-02-Docker-and-CommandBox.md)
-- [Pre-Req 03 - Instalar ContentBox](prerequisitos/Prereq-03-ContentBox.md)
-- [Pre-Req 04 - Instalar Node y NPM](prerequisitos/Prereq-04-Node-and-NPM.md)
-- [Pre-Req 05 - Instalar Vue App](prerequisitos/Prereq-05-Vue-App.md)
+- [Pre-Req 01 - Setup](prerrequisitos/Prereq-01-Setup.md)
+- [Pre-Req 02 - Instalar Doocker y CommandBox](prerrequisitos/Prereq-02-Docker-and-CommandBox.md)
+- [Pre-Req 03 - Instalar ContentBox](prerrequisitos/Prereq-03-ContentBox.md)
+- [Pre-Req 04 - Instalar Node y NPM](prerrequisitos/Prereq-04-Node-and-NPM.md)
+- [Pre-Req 05 - Instalar Vue App](prerrequisitos/Prereq-05-Vue-App.md)
 
 ## Herramientas adicionales requeridas
 

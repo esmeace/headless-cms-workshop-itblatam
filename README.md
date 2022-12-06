@@ -7,4 +7,4 @@ Por favor completar los archivos de "pre-requisitos" antes de asistir al taller.
 
 ### Pre-Requisitos
 
-- [Step 00 - Pre-Requisites](español/Step-00-Prerequisitos.md)
+- [Step 00 - Pre-Requisites](español/Step-00-Prerrequisitos.md)

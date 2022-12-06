@@ -1,48 +1,49 @@
 # Introducción a ContentBox: Contenido sin Cabeza
 
-Description 
+Descripción 
 
-In this workshop you will be introduced to ContentBox 5 but we will focus its headless capability. We will explore and interact with the admin to create content. We will inspect the API module.  We will integrate content from the ContentBox app into a Vue app.
+En este taller vamos a hacer una introducción a ContentBox, pero nos vamos a enfocar en su capacidad de ser headless, además vamos a
+explorar e interactuar con el administrador de contenido que este posee y vamos a inspeccionar/trabajar con su módulo ContentBox API,
+para finalizar vamos a integrar el contenido con una aplicación VueJs.
 
-## Prerequisites
+## Prerrequisitos
 
-Programming Knowledge: Basic knowledge of API concepts, Javascript.
+Previos conocimientos de programación: Conocimientos básicos de API y Javascript.
 
-Hardware and software: See [Step 00 - Pre-Requisites](Step-00-Prerequisites.md)
+Hardware y software: Mira [Step 00 - Pre-Requisites](Step-00-Prerrequisitos.md)
 
-## Course Outline
+## Contenido del taller
 
-This course will focus on building a feed of posts.  We will manage the content in a ContentBox app and display the content in a Vue app.
+Este taller se enfocara en construir un listado de blog post, vamos a manipular el contendio usando la aplicación de ContentBox y mostraremos el contenido en la aplicación de Vue.
+### 1. Introducción del taller
 
-### 1. Course Introduction
+- Introducción
+- Prerrequisitos de Software
+- Expectativas del taller
 
-- Introductions
-- Software Pre-Requisites
-- Course Expectations
+### 2. Explorar el administrador de ContentBox
 
-### 2. Explore ContentBox Admin
+Que realizaremos:
 
-What we will do:
+- Administración de usuarios
+- Crear blog posts
+- Crear páginas
 
-- Manage Users
-- Create blog posts
-- Create pages
+### 3. Inspeccionar la API
 
-### 3. Inspect the API
+Que realizaremos:
 
-What we will do:
-
-- View the API documantation  
-- Use Postman to make requests to the API
+- Ver la documentación de API 
+- Uso de Postman para realizar peticiones API
 
 
-### 4. Display the ContentBox content in a Vue app 
+### 4. Mostrar el contendio de ContentBox en la apliación de Vue 
 
-What we will do:
+Que realizaremos:
 
-- Call the ContentBox app API to retrieve our blog posts
-- Display the posts in a Vue component
+- Consumir la API de ContentBox para recibir nuestros blog posts
+- Mostrar los blog posts en un componente de Vue
 
-### 5. Challenge Exercise
+### 5. Desafío!
 
-Create a site that presents your hobby's tips.  Use the cbheadless app to create your content. For the presentation duplicate the vue-dev-blog as a starting point.
+Crear un sitio que presente los consejos para realizar tus actividades favoritas. Utiliza la aplicación cbheadless para crear tu contenido y duplica la aplicación vue-dev-blog como un punto de partida.
