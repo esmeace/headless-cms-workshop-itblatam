@@ -18,7 +18,7 @@ Instrucciones paso a paso para instalar y configurar Docker, CommandBox, Node, N
 - [Pre-Req 02 - Instalar Doocker y CommandBox](prerequisitos/Prereq-02-Docker-and-CommandBox.md)
 - [Pre-Req 03 - Instalar ContentBox](prerequisitos/Prereq-03-ContentBox.md)
 - [Pre-Req 04 - Instalar Node y NPM](prerequisitos/Prereq-04-Node-and-NPM.md)
-- [Pre-Req 05 - Install Vue App](prerequisitos/Prereq-05-Vue-App.md)
+- [Pre-Req 05 - Instalar Vue App](prerequisitos/Prereq-05-Vue-App.md)
 
 ## Herramientas adicionales requeridas
 
@@ -41,6 +41,7 @@ Acontinuación detallamos las herramientas adicionales que usaremos en el taller
   - DBeaver multi-plataforma - [https://dbeaver.io/](https://dbeaver.io/)
 
 **Extensiones recomendadas para VS Code**
+Puedes encontrarlas en la sección de extensiones de VS Code o sigue los links a continuación:
 
 - CFML de KamasamaK - [https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml](https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml)
 - Vetur de Pine Wu - [https://marketplace.visualstudio.com/items?itemName=octref.vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
