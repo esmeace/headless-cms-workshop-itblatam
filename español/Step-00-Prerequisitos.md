@@ -41,6 +41,7 @@ Acontinuación detallamos las herramientas adicionales que usaremos en el taller
   - DBeaver multi-plataforma - [https://dbeaver.io/](https://dbeaver.io/)
 
 **Extensiones recomendadas para VS Code**
+Puedes encontrarlas en la sección de extensiones de VS Code o sigue los links a continuación:
 
 - CFML de KamasamaK - [https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml](https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml)
 - Vetur de Pine Wu - [https://marketplace.visualstudio.com/items?itemName=octref.vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
