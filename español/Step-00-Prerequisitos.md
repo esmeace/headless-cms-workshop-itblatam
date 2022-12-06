@@ -18,7 +18,7 @@ Instrucciones paso a paso para instalar y configurar Docker, CommandBox, Node, N
 - [Pre-Req 02 - Instalar Doocker y CommandBox](prerequisitos/Prereq-02-Docker-and-CommandBox.md)
 - [Pre-Req 03 - Instalar ContentBox](prerequisitos/Prereq-03-ContentBox.md)
 - [Pre-Req 04 - Instalar Node y NPM](prerequisitos/Prereq-04-Node-and-NPM.md)
-- [Pre-Req 05 - Install Vue App](prerequisitos/Prereq-05-Vue-App.md)
+- [Pre-Req 05 - Instalar Vue App](prerequisitos/Prereq-05-Vue-App.md)
 
 ## Herramientas adicionales requeridas
 
