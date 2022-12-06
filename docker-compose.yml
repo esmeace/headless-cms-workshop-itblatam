@@ -1,0 +1,35 @@
+version: '3.4'
+
+services:
+
+  mysql:
+    image: mysql:8
+    command: --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    ports:
+      - "3357:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: "itbLATAM2022!"
+      MYSQL_PASSWORD: "itbLATAM2022!"
+      MYSQL_USER: sa
+    volumes:
+      - mysql8-data:/var/lib/mysql
+
+  app:
+    image: ortussolutions/commandbox:lucee5
+    depends_on:
+      - mysql
+    environment:
+      cfconfig_adminPassword: itbLATAM2022!
+      HEALTHCHECK_URI: http://127.0.0.1:8080/config/index.cfm
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_USERNAME: sa
+      DB_PASSWORD: "itbLATAM2022!"
+      DB_DATABASE: cbheadless
+      ENVIRONMENT: development
+    ports:
+      - "61680:8080"
+    volumes:
+      - .:/app:delegated
+volumes:
+  mysql8-data:
